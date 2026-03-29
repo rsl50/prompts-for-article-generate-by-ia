@@ -12,21 +12,14 @@
 
 -------
 
-<p align="center">
-  <img 
-    src="https://github.com/rsl50/prompts-for-article-generate-by-ia/blob/main/.github/assets/preview.png"
-    width="400"  
-  />
-</p>
-
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso [Formação ChatGPT for Devs](https://web.dio.me/track/formacao-chatgpt-devs) na plataforma da [DIO](https://dio.me).
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
+  <a href="https://dio.me/articles/xml-ou-jetpack-compose-eis-questao-3862137e6356?utm_source=link&utm_campaign=mgm-xml-ou-jetpack-compose-eis-questao-3862137e6356&utm_medium=article" title="Preview do Conteúdo">
+  <img src="https://github.com/rsl50/prompts-for-article-generate-by-ia/blob/main/.github/assets/preview.png" width="80%">
   </a>
 <p>
 
@@ -91,17 +84,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/5752022?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRobson Lima<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/rsl50">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+    <a href="https://www.linkedin.com/in/robsonslima">LinkedIn</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -109,4 +98,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Robson Lima](https://github.com/rsl50)
