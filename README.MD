@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="https://github.com/rsl50/prompts-for-article-generate-by-ia/blob/main/.github/assets/banner_readme.png">
 </p>
 
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src="https://github.com/rsl50/prompts-for-article-generate-by-ia/blob/main/.github/assets/preview.png"
     width="400"  
   />
 </p>
@@ -36,37 +36,49 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
-- [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [Claude](https://claude.ai/) - para título e conteúdo
+- [Leonardo.ai](https://leonardo.ai/) - para gerar imagens
+- [Mockuphone](https://mockuphone.com/) - para gerar Mockup do preview
 
 ## 📄 Prompts e ferramentas
 
 
-ChatGPT：
+Claude.ai：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Comporte-se como um escritor de artigos técnicos para o medium. Escreva um artigo sobre desenvolvimento android mobile comparando o desenvolvimento Kotlin + Layout XML vs Jetpack Compose.                                                                                    |
 
 
-Lexica.art：
+Leonardo.ai:
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
-• Angular
-
-
+- Utilizado para gerar banner do artigo com o seguinte prompt:
+A modern, visually appealing banner for a Medium article about Android mobile development, featuring a bold, sans-serif font with the title 'Layout XML vs
+Jetpack Compose' in a bright, electric blue color, placed centrally on a clean, white background with a subtle gradient effect, incorporating a stylized Android logo in the background, with a mix of bright and dark shades to create depth, and a faint grid pattern to give a sense of technology and innovation, some almost transparent images of blueprints of a UX design scattered in the backgroung, ensuring clear, sharp typography and balanced composition to capture the reader's attention.
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+- Conteúdo gerado via Claude.ai
+- Imagem gerada com Leonardo.ai
 
 ## 📚 Materiais
 
 - prompts utilizados
+
+Claude.ai:
+Comporte-se como um escritor de artigos técnicos para o medium. Escreva um artigo sobre desenvolvimento android mobile comparando o desenvolvimento Kotlin + Layout XML vs Jetpack Compose. Siga as regras abaixo:
+
+{REGRAS}
+> No máximo 5 linhas por blocos de explicação
+> Explique de maneira informal, para desenvolvedores com nível inicial-intermediário
+> Os blocos que serão criados estão abaixo:
+- Como é o desenvolvimento utilizando layout XML
+- Quais suas vantagens e desvantagens
+Cite exemplos com código mostrando um layout simples
+- Como é o desenvolvimento utilizando Jetpack Compose
+Cite exemplos com código de diretivas atributos
+- Faça um call to action para as minhas redes sociais
+- Coloque 3 hashtags que façam sentido
 
 ## 🛠️ Instruções de execução
 
